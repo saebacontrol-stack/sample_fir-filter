@@ -23,5 +23,5 @@ pip install numpy matplotlib
 ```
 ### 実行手順
 ```bash
-python sample_fir-fi
+python sample_fir-filter
 ```
